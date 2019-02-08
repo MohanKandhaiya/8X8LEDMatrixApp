@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">8X8 LED Matrix App</string>
+    <string name="display">Display</string>
+    <string name="enter_the_text_to_be_displayed">Enter the Text to be Displayed</string>
+    <string name="enter_the_wifi_s_password">Enter the WiFi\'s Password</string>
+    <string name="enter_the_wifi_s_username">Enter the WiFi\'s Username...</string>
+    <string name="enter_the_firebase_secret_data">Enter the Firebase Secret Data...</string>
+    <string name="enter_the_firebase_host_address">Enter the Firebase Host Address...</string>
+    <string name="displaying_the_text_send_by_firebase_realtime_database">Displaying the Text send by Firebase Realtime Database</string>
+    <string name="displaying_the_value_in_8x8_led_matrix_from_google_firebase_the_realtime_database">Displaying the Value in 8X8 LED Matrix from Google Firebase - The Realtime Database</string>
+    <string name="displaying_the_scrolling_text_in_the_led_8x8_matrix_from_google_firebase_in_android_app_using_nodemcu">Displaying the Scrolling Text in the LED 8X8 Matrix from Google Firebase in Android App using NodeMCU</string>
+</resources>
